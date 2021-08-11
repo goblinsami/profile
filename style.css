@@ -3,7 +3,7 @@
 }
 
 body{
-  background-color: lightgray;
+  background-color: lightgreen;
 }
 
 h1, h2, h3, p {
@@ -37,7 +37,7 @@ div {
 }
 
 .button {
-  background-color: lightcyan;
+  background-color: lightgrey;
   height: 400px;
   width: 400px;
   text-decoration: none;
